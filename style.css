@@ -1,0 +1,20 @@
+
+.headerblock{
+  margin: auto;
+  background-color: blue;
+  color:springgreen;
+  font-family: verdana;
+}
+.bodyblock{
+  margin: auto;
+  background-color:honeydew;
+  color:teal;
+  font-family: verdana;
+}
+body{
+  background-color: crimson;
+} 
+
+footer{
+  background-color:cyan;
+} 
