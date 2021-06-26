@@ -1,3 +1,3 @@
 # FrontEndProjects
 
-#Project for HTML learnings
+Project for HTML learnings
