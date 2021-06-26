@@ -1,6 +1,6 @@
 # FrontEndProjects
 
 PlaceHolder for Front End tech Stacks 
-#HTML
-#CSS
-#JAVASCRIPT
+#1.HTML
+#2.CSS
+#3.JAVASCRIPT
